@@ -1,3 +1,5 @@
+https://www.redpandacompress.com/ko/
+
 robot_arm_master
   모드는 설정안함 해당 모터를 모방학습시에도 사용하기 때문에 모방학습에서 사용되는 모드를 사용
   1Mbps에서 최대 성능을 활용하기 위해서 0.02초마다 발행함
@@ -13,3 +15,11 @@ robot_arm_slave
   기존에 각 모터마다 전류값을 설정해서 오버로드를 1차로 방지함
   
   
+
+https://github.com/user-attachments/assets/0cbd91a1-4d83-40d7-940a-a0ae1ecae9ce
+
+
+
+
+https://github.com/user-attachments/assets/51b99748-035c-4ba2-83e8-38ec6baffa4b
+
